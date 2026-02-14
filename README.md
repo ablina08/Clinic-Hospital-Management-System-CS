@@ -24,4 +24,5 @@ This project is a Clinic Management System built using C# and PostgreSQL.
 4. Run project
 
 ## Author
-Albina Krasniqi
+Albina Shabanaj
+
